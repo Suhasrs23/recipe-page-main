@@ -1,0 +1,99 @@
+
+.young-serif-regular {
+  font-family: "Young Serif", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.Instructions-nameHighlight {
+    font-weight: bold ;
+    color: hsl(30, 10%, 34%);
+    
+        font-family: "Young Serif", system-ui;
+        
+        font-style: normal;
+      
+      }
+.Instructions{
+  color: hsl(30, 10%, 34%);
+  font-family: "Young Serif", serif;
+  font-style: normal;
+}
+.Preparation-nameHighlight{
+  color: hsl(30, 10%, 34%);
+  font-weight: bold ;
+}
+h2{
+  color: hsl(14, 45%, 36%);
+}
+.Preparation_time{
+  background-color:hsl(330, 100%, 98%) ;
+  line-height: 1.5em;
+  border-radius: 25px;
+  
+  
+  
+}
+.preparation_span{
+  margin: 20px;
+}
+.preparation-time_heading{
+  color:hsl(332, 51%, 32%) ;
+}
+ol{
+  line-height: 1.5em;
+}
+.Ingredients{
+  line-height: 1.5em;
+  color:hsl(30, 10%, 34%);
+  font-weight: 500;
+}
+.body{
+  padding: 10px;
+}
+
+img{
+  border-radius: 25px;
+}
+.description{
+  color:hsl(30, 10%, 34%);
+  font-weight: 600;
+}
+hr{
+  display: block;
+height: 1px;
+border: 0;
+border-top: 1px solid #ccc;
+margin: 1em 0;
+padding: 0;
+}
+.Nutrition{
+  line-height: 1.5em;
+  color:hsl(30, 10%, 34%);
+}
+.calories{
+  margin-left: 60px;
+  word-spacing: 150px;
+  display:block;
+}
+.carbs{
+  margin-left: 60px;
+  word-spacing: 165px;
+  display:block;
+}
+.protein{
+  margin-left: 60px;
+  word-spacing: 155px;
+  display:block;
+}
+
+.fat{
+  margin-left: 60px;
+  word-spacing: 181px;
+  display:block;
+}
+.Nutrition_values{
+  color:hsl(14, 45%, 36%) ;
+  font-weight: bold;
+}
